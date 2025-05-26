@@ -19,7 +19,7 @@ This end-to-end project aims to analyze and predict customer churn using Python 
 
 ## 🎯 Objective
 
-- Understand key behavioral and demographic patterns that influence churn.
+- Understand key behavioral and patterns that influence churn.
 - Build predictive models to estimate churn likelihood.
 - Deliver actionable insights via a business-friendly dashboard.
 
@@ -113,4 +113,4 @@ This project provides a comprehensive churn analysis pipeline—starting from ra
 
 ## 📬 Contact
 
-For queries or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/) or email: `your.email@example.com`
+For queries or collaborations, feel free to reach out on [LinkedIn-www.linkedin.com/in/rai-adarsh] or email: `adarshjanardhanrai@gmail.com`
