@@ -82,7 +82,7 @@ Business Use:
 
 ## ⚙️ Tech Stack
 
-- **Python** (Pandas, Scikit-learn, XGBoost, Matplotlib)
+- **Python** (Pandas, Scikit-learn, Random Forest, Matplotlib)
 - **Jupyter Notebook**
 - **Power BI Desktop**
 - **GitHub** for version control and collaboration
